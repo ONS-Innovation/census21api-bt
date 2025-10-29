@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: census21api-bt
+  annotations:
+    github.com/project-slug: ONS-Innovation/census21api-bt
+spec:
+  type: other
+  lifecycle: unknown
+  owner: spotify-backstage_trial_governance-leads
